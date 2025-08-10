@@ -22,7 +22,7 @@ export default function MilitaryPage() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <div className="flex space-x-6">
               <Link href="/christian" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -53,7 +53,7 @@ export default function MilitaryPage() {
               Military Insights
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-              Stories, experiences, and leadership lessons learned through military service and their applications in civilian life.
+              Stories, experiences, and leadership lessons from our family's military service and how they apply to everyday life.
             </p>
           </div>
         </div>

@@ -30,7 +30,7 @@ export default function HomeschoolPage() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <div className="flex space-x-6">
               <Link href="/christian" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -61,7 +61,7 @@ export default function HomeschoolPage() {
               Homeschool Resources
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-              Interactive educational tools designed to make learning engaging and effective for homeschool families.
+              Interactive educational tools our family uses to make learning engaging and effective.
             </p>
           </div>
 
