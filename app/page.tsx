@@ -7,7 +7,7 @@ export default function Home() {
   const pillars = [
     {
       title: 'Christian Living',
-      description: 'Strengthen your faith with interactive Bible study tools, verse matching games, and daily devotions.',
+      description: "Strengthen our family's faith with interactive Bible study tools, verse matching games, and daily devotions.",
       icon: BookOpen,
       href: '/christian',
       gradient: 'from-blue-500 to-blue-600',
@@ -15,7 +15,7 @@ export default function Home() {
     },
     {
       title: 'Homeschool Resources',
-      description: 'Educational tools and activities to enhance your homeschooling journey with interactive learning.',
+      description: "Educational tools and activities our family uses to enhance our homeschooling journey with interactive learning.",
       icon: GraduationCap,
       href: '/homeschool',
       gradient: 'from-emerald-500 to-emerald-600',
@@ -23,7 +23,7 @@ export default function Home() {
     },
     {
       title: 'Military Insights',
-      description: 'Stories, experiences, and insights from military service and leadership perspectives.',
+      description: "Stories, experiences, and insights from our family's military service and leadership.",
       icon: Shield,
       href: '/military',
       gradient: 'from-orange-500 to-orange-600',
@@ -38,7 +38,7 @@ export default function Home() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <div className="flex space-x-6">
               <Link href="/about" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -56,11 +56,10 @@ export default function Home() {
       <section className="py-20 px-6">
         <div className="container mx-auto text-center">
           <h1 className="text-5xl font-bold text-slate-800 mb-6">
-            Three Pillars of Life
+            The Ross Adventure
           </h1>
           <p className="text-xl text-slate-600 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Explore the foundational aspects that shape our journey: faith, education, and service. 
-            Discover interactive tools and insights for each pillar of meaningful living.
+            Join our family as we explore faith in Christ, a love of learning at home, and a commitment to serving others.
           </p>
         </div>
       </section>
@@ -108,7 +107,7 @@ export default function Home() {
       <footer className="bg-slate-800 text-white py-12 px-6">
         <div className="container mx-auto text-center">
           <p className="text-slate-300">
-            © 2025 Three Pillars. Building foundations for meaningful living.
+            © 2025 The Ross Adventure. Journeying together in faith, learning, and service.
           </p>
         </div>
       </footer>

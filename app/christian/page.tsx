@@ -38,7 +38,7 @@ export default function ChristianPage() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <div className="flex space-x-6">
               <Link href="/homeschool" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -69,7 +69,7 @@ export default function ChristianPage() {
               Christian Living Tools
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-              Strengthen your faith journey with interactive Bible study tools designed to deepen your understanding and memory of Scripture.
+              Strengthen our family's faith journey with interactive Bible study tools designed to deepen understanding and memory of Scripture.
             </p>
           </div>
 

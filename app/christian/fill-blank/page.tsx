@@ -120,7 +120,7 @@ export default function FillBlankPage() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <Button asChild variant="ghost" className="text-slate-600">
               <Link href="/christian" className="flex items-center gap-2">

@@ -10,7 +10,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <div className="flex space-x-6">
               <Link href="/christian" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -34,11 +34,10 @@ export default function AboutPage() {
       <section className="py-20 px-6">
         <div className="container mx-auto max-w-4xl text-center">
           <h1 className="text-5xl font-bold text-slate-800 mb-6">
-            About Three Pillars
+            About The Ross Adventure
           </h1>
           <p className="text-xl text-slate-600 leading-relaxed">
-            Exploring the foundational aspects that create meaningful, purposeful living through faith, 
-            education, and service to others.
+            Discover the values that guide our family—faith in Christ, a love of learning at home, and a dedication to serving others.
           </p>
         </div>
       </section>
@@ -137,8 +136,8 @@ export default function AboutPage() {
               
               <div className="prose prose-lg max-w-none text-slate-700 leading-relaxed space-y-4">
                 <p>
-                  Three Pillars was born from the recognition that meaningful life rests on foundational principles 
-                  that transcend circumstances and challenges. Through years of military service, homeschooling experiences, 
+                  The Ross Adventure began from our family's recognition that meaningful life rests on foundational principles
+                  that transcend circumstances and challenges. Through years of military service, homeschooling experiences,
                   and faith-based living, these three pillars emerged as central to building a life of purpose and impact.
                 </p>
                 
@@ -175,7 +174,7 @@ export default function AboutPage() {
       <footer className="bg-slate-800 text-white py-12 px-6">
         <div className="container mx-auto text-center">
           <p className="text-slate-300">
-            © 2025 Three Pillars. Building foundations for meaningful living.
+            © 2025 The Ross Adventure. Journeying together in faith, learning, and service.
           </p>
         </div>
       </footer>

@@ -38,7 +38,7 @@ export default function ContactPage() {
           <div className="container mx-auto px-6 py-4">
             <nav className="flex justify-between items-center">
               <Link href="/" className="text-2xl font-bold text-slate-800">
-                Three Pillars
+                The Ross Adventure
               </Link>
               <div className="flex space-x-6">
                 <Link href="/about" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -80,7 +80,7 @@ export default function ContactPage() {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex justify-between items-center">
             <Link href="/" className="text-2xl font-bold text-slate-800">
-              Three Pillars
+              The Ross Adventure
             </Link>
             <div className="flex space-x-6">
               <Link href="/christian" className="text-slate-600 hover:text-slate-800 transition-colors">
@@ -110,8 +110,7 @@ export default function ContactPage() {
             Get in Touch
           </h1>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            Have questions, suggestions, or want to share your experience with our tools? 
-            We&apos;d love to hear from you.
+            Have questions, suggestions, or stories to share about our family's adventure? We&apos;d love to hear from you.
           </p>
         </div>
       </section>
@@ -220,8 +219,8 @@ export default function ContactPage() {
           <div className="mt-8 text-center">
             <p className="text-slate-600">
               You can also reach us at{' '}
-              <a href="mailto:contact@threepillars.com" className="text-blue-600 hover:text-blue-800 font-medium">
-                contact@threepillars.com
+              <a href="mailto:contact@therossadventure.com" className="text-blue-600 hover:text-blue-800 font-medium">
+                contact@therossadventure.com
               </a>
             </p>
           </div>
